@@ -1,0 +1,25 @@
+--- 
+title: "Political Data Analysis Using R"
+author: "Justin Murphy"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: jmrphy/political-data-book
+description: "Programmatic analysis of real political data for writers, thinkers, and students"
+---
+
+# Preface
+
+There are many books on how to analyze data with R; many books on political analysis; and many books on data science and advanced topics. But somehow there is no book for that person who just wants to answer their own questions about the political world, using data. This is that book. I hope it will be useful to random thinkers, bloggers, beginning students in the social sciences, or advanced students in non-quantitative fields.
+
+This book will do a few things:
+
+	- Help you convert informal questions in your mind into tractable, answerable questions
+
+	- Give you lots of code for many recurring data tasks
+
+	- Use real datasets, with a wealth of future content opportunities (instead of fake data or silly demo datasets)
